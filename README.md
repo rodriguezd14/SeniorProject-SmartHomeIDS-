@@ -21,6 +21,7 @@ cd SeniorProject-SmartHomeIDS
 ### 2. Change the network interface in server.py to the one your machines uses
 
 <img width="753" height="141" alt="image" src="https://github.com/user-attachments/assets/9bea0f7c-18ae-48bb-966f-bfaf1555ce80" />
+
 should be on line 22 if that helps
 
 
